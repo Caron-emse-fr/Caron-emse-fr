@@ -1,22 +1,21 @@
-<div align="center">
-▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
-▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
-▼▼▼▼▼▼▼▼▼▼▼▼▼
-▼▼▼▼▼▼▼▼▼▼▼
-▼▼▼▼▼▼▼▼▼
-▼▼▼▼▼▼▼
-▼▼▼▼▼
-▼▼▼
-▼
+<pre align="center">
+   ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+    ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+     ▼▼▼▼▼▼▼▼▼▼▼▼▼
+      ▼▼▼▼▼▼▼▼▼▼▼
+       ▼▼▼▼▼▼▼▼▼
+        ▼▼▼▼▼▼▼
+         ▼▼▼▼▼
+          ▼▼▼
+           ▼
+</pre>
 
-# < DIRECTIVE / DOSSIER >
-### < OPERATOR / CARON >
-
-</div>
+<h1 align="center">&lt; DIRECTIVE / DOSSIER &gt;</h1>
+<h3 align="center">&lt; OPERATOR / ROMAIN CARON &gt;</h3>
 
 ---
 
-### < AGENT STATUS / RECORD >
+### &lt; AGENT STATUS / RECORD &gt;
  
 > **CLASSIFIED / RESTRICTED ACCESS**  
 > **OPERATOR:** `CARON` 
@@ -30,19 +29,21 @@
 
 ---
 
-### < CAPABILITIES / ALTERED SKILLS >
+### &lt; CAPABILITIES / ALTERED SKILLS &gt;
 
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
-### < ACADEMIC DIRECTIVES / RESEARCH PROJECTS >
+### &lt; ACADEMIC DIRECTIVES / RESEARCH PROJECTS &gt;
 
 - **[EndoPrev Platform]** — `< FULL-STACK DEVELOPMENT / MEDICAL RESEARCH LINK >`  
   *Developing a web application connecting researchers and patients affected by endometriosis while centralizing educational resources.*
@@ -52,7 +53,7 @@
 
 ---
 
-### < BACKGROUND / CLASSIFIED DATA >
+### &lt; BACKGROUND / CLASSIFIED DATA &gt;
 
 - **Education**: M.S. in Science and Engineering at Mines de Saint-Étienne — CPGE TSI (Ranked 11th nationwide in the Mines-Ponts national entrance exam).
 - **Languages**: French (Native), English (Advanced, C1 Level).
@@ -60,15 +61,20 @@
 
 ---
 
-### < TELEMETRY / DATA >
+### &lt; BUREAU EVALUATION / THE BOARD &gt;
 
-<div align="center">
+> **TRANSMISSION / NOTICE:**  
+> *The Candidate / Operator demonstrates high efficiency in < SOFTWARE DEVELOPMENT / PROBLEM SOLVING >. Continued observation is recommended / mandatory. Do not trust the ████████.*
 
+---
+
+### &lt; TELEMETRY / DATA &gt;
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Caron-emse-fr&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333&show_icons=true" alt="GitHub Stats" />
+</p>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caron-emse-fr&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333&show_icons=true)
 
 </div>
 
-### < BUREAU EVALUATION / THE BOARD >
 
-> **TRANSMISSION / NOTICE:**  
-> *The Candidate / Operator demonstrates high efficiency in < SOFTWARE DEVELOPMENT / PROBLEM SOLVING >. Continued observation is recommended / mandatory. Do not trust the ████████.*
