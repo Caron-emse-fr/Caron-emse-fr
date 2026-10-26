@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 86.6" width="200" height="173">
-  <style>
-    .pyramid { fill: #000000; }
-    @media (prefers-color-scheme: dark) {
-      .pyramid { fill: #ffffff; }
-    }
-  </style>
-  <polygon class="pyramid" points="0,0 100,0 50,86.6" />
-</svg>
