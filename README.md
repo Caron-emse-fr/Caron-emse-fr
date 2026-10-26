@@ -65,8 +65,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Caron-emse-fr&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333&show_icons=true" alt="GitHub Stats" />
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caron-emse-fr&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333&show_icons=true)
-
 </div>
 
 
