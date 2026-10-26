@@ -1,9 +1,6 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./pyramid-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./pyramid-black.svg">
-    <img src="./pyramid-black.svg" width="180" alt="The Board Pyramid">
-  </picture>
+  <img src="./pyramid-white.svg#gh-dark-mode-only" width="180" alt="The Board Pyramid" />
+  <img src="./pyramid-black.svg#gh-light-mode-only" width="180" alt="The Board Pyramid" />
 </p>
 
 <h1 align="center">&lt; DIRECTIVE / DOSSIER &gt;</h1>
