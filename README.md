@@ -1,25 +1,6 @@
-<pre align="center">
-███████████████████████████████████████
- █████████████████████████████████████
-  ███████████████████████████████████
-   █████████████████████████████████
-    ███████████████████████████████
-     █████████████████████████████
-      ███████████████████████████
-       █████████████████████████
-        ███████████████████████
-         █████████████████████
-          ███████████████████
-           █████████████████
-            ███████████████
-             █████████████
-              ███████████
-               █████████
-                ███████
-                 █████
-                  ███
-                   █
-</pre>
+<p align="center">
+  <img src="./pyramid.svg" width="180" alt="The Board Pyramid" />
+</p>
 
 <h1 align="center">&lt; DIRECTIVE / DOSSIER &gt;</h1>
 <h3 align="center">&lt; OPERATOR / CARON &gt;</h3>
@@ -27,16 +8,16 @@
 ---
 
 ### &lt; AGENT STATUS / RECORD &gt;
- 
-> **CLASSIFIED / RESTRICTED ACCESS**  
-> **OPERATOR:** `CARON` \n
-> **AGE** `21` \n
-> **GENDER** `███████` \n
-> **CLEARANCE:** `ECOLES DES MINES DE SAINT-ÉTIENNE — COMPUTER SCIENCE MAJOR`  \n
-> **LOCATION:** `SECTOR 42 / SAINT-ÉTIENNE, FRANCE` \n
-> **SUBJECT ID:** `RC-████-2025`   \n
-> **DIRECT SUPERVISOR:** `AGENT ████████`  \n
-> **PSYCHOLOGICAL EVALUATION:** `STABLE / MONITORED FOR ██████ OPERATIONAL RISKS` \n
+
+> **CLASSIFIED / RESTRICTED ACCESS**<br>
+> **OPERATOR:** `CARON`<br>
+> **AGE:** `21`<br>
+> **GENDER:** `███████`<br>
+> **CLEARANCE:** `ÉCOLE DES MINES DE SAINT-ÉTIENNE — COMPUTER SCIENCE MAJOR`<br>
+> **LOCATION:** `SECTOR 42 / SAINT-ÉTIENNE, FRANCE`<br>
+> **SUBJECT ID:** `RC-████-2025`<br>
+> **DIRECT SUPERVISOR:** `AGENT ████████`<br>
+> **PSYCHOLOGICAL EVALUATION:** `STABLE / MONITORED FOR ██████ OPERATIONAL RISKS`
 
 ---
 
