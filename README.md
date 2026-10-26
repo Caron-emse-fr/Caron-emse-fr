@@ -1,17 +1,28 @@
 <pre align="center">
-   ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
-    ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
-     ▼▼▼▼▼▼▼▼▼▼▼▼▼
-      ▼▼▼▼▼▼▼▼▼▼▼
-       ▼▼▼▼▼▼▼▼▼
-        ▼▼▼▼▼▼▼
-         ▼▼▼▼▼
-          ▼▼▼
-           ▼
+███████████████████████████████████████
+ █████████████████████████████████████
+  ███████████████████████████████████
+   █████████████████████████████████
+    ███████████████████████████████
+     █████████████████████████████
+      ███████████████████████████
+       █████████████████████████
+        ███████████████████████
+         █████████████████████
+          ███████████████████
+           █████████████████
+            ███████████████
+             █████████████
+              ███████████
+               █████████
+                ███████
+                 █████
+                  ███
+                   █
 </pre>
 
 <h1 align="center">&lt; DIRECTIVE / DOSSIER &gt;</h1>
-<h3 align="center">&lt; OPERATOR / ROMAIN CARON &gt;</h3>
+<h3 align="center">&lt; OPERATOR / CARON &gt;</h3>
 
 ---
 
@@ -21,7 +32,7 @@
 > **OPERATOR:** `CARON` 
 > **AGE** `21` 
 > **GENDER** `███████` 
-> **CLEARANCE:** `MINES DE SAINT-ÉTIENNE — COMPUTER SCIENCE MAJOR`  
+> **CLEARANCE:** `ECOLES DES MINES DE SAINT-ÉTIENNE — COMPUTER SCIENCE MAJOR`  
 > **LOCATION:** `SECTOR 42 / SAINT-ÉTIENNE, FRANCE` 
 > **SUBJECT ID:** `RC-████-2025`   
 > **DIRECT SUPERVISOR:** `AGENT ████████`  
